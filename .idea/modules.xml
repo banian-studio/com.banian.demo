@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/com.banian.demo.iml" filepath="$PROJECT_DIR$/com.banian.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-application-services/demo-application-services.iml" filepath="$PROJECT_DIR$/demo-application-services/demo-application-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-web/demo-web.iml" filepath="$PROJECT_DIR$/demo-web/demo-web.iml" />
     </modules>
   </component>
 </project>
